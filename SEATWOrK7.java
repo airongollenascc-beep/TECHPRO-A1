@@ -1,4 +1,4 @@
-public class SEATWORK7 {
+public class SEATWOrK7 {
 
     public static void main(String args[]) {
 
