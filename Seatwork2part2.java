@@ -51,7 +51,7 @@ class Student extends Person {
 }
 
 
-public class SecondsemSeatwork2part2 {
+public class SecSeatwork2part2 {
     public static void main(String[] args) {
         
         Student s = new Student();
